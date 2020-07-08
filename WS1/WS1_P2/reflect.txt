@@ -1,0 +1,12 @@
+// Student name: Nguyen Hoang Trung Hieu
+// Student ID:   142914191
+// Section:      NBB
+
+Reflection Workshop 1
+
+After finish this workshop, I have learned about how to declare and define a namespace.
+I have more practice and validating the number input form the user through functions.
+I also practice input and output in C++, dynamic memory... Moreover, I also reviewed 
+the way to sort an array before display the value. Everything is interesting for me.
+Thank to the workshop, and there are still many things new with me, so I hope I can try 
+hard to adapt all of them. They are very helpful for my opportunity to find a great job.

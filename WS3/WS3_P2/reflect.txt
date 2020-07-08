@@ -1,0 +1,10 @@
+Student name: Nguyen Hoang Trung Hieu
+Student ID:   142914191
+Section:      NBB
+
+Through this workshop, I have learned using 'get' method to read the value from a private value inside a class, and 'set' method to 
+assign value into a private value from class. I have learned 'setprecision' keyword, it sets the decimal precision to be 
+used to format floating-point values on output, but the format is automatic assign for whole 'float' and 'double' value of the program.
+I this workshop, I also learned using the 'unsetf' keyword, which deactivate the setprecision before. And set another precision for another output.
+
+And I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.

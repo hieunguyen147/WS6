@@ -1,0 +1,10 @@
+// Student name: Nguyen Hoang Trung Hieu
+// Student ID:   142914191
+// Section:      NBB
+
+Reflection Workshop 2
+
+After finish this workshop, I have learned about how to declare and allocate many dynamic memory.
+And how to deallocation to the pointer is not leak memory... I have more practice about references parameter.
+I also practice more input and output in C++...Everything is interesting for me.
+They are very helpful for me.

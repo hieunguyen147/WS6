@@ -1,0 +1,14 @@
+In line number 36 of your output:
+The output should be:
+Gift #1: 
+        ^
+But your output is: 
+Gift #1:
+        ^
+
+Unmatched character details:
+The character in column 9 is supposed to be:
+  [Space] ASCII code(32)
+but you printed
+  [Newline (\n) or Carriage Retrun (\r)] ASCII code(13)
+

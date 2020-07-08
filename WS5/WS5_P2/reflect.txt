@@ -1,0 +1,7 @@
+Student name: Nguyen Hoang Trung Hieu
+Student ID:   142914191
+Section:      NBB
+
+Through this work shop, I have learned how to use "setprecision()" function to set the total "digit" I want to display to the console and "unsetf()" function to delete what I had set for the number of digit before. After that I also need to using "precision()" function to set the digit for another variable to display later. 
+More over I have learned more about "setw()", which is can helping me to format the output. In my case I had used setw(6) << right << variable to display the number follow by the right side to the left side. I feel that is really cool in this workshop.
+I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.

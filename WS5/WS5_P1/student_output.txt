@@ -1,0 +1,61 @@
+Script started on Wed 24 Jun 2020 11:18:26 PM EDT
+==163124== Memcheck, a memory error detector
+==163124== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==163124== Using Valgrind-3.15.0 and LibVEX; rerun with -h for copyright info
+==163124== Command: ws
+==163124== 
+----------------------------------------
+|> T1: Testing Constants
+----------------------------------------
+TYPE_MAX_SIZE: 30
+MIN_STD_POWER: 90.111
+MAX_STD_POWER: 99.999
+
+----------------------------------------
+|> T2: Testing Default Constructor
+----------------------------------------
+No available data
+The object is not valid! Engine cannot be added!
+
+----------------------------------------
+|> T3: Testing Custom Constructor
+----------------------------------------
+cruiser - 128.5
+4.4 liters - V8
+5 liters - V8
+4.1 liters - Inline
+7 liters - D3
+2 liters - D0
+3.2 liters - D1
+
+----------------------------------------
+|> T4: Testing Conversion to Bool Operator
+----------------------------------------
+1. Test succeeded!
+2. Test succeeded!
+
+----------------------------------------
+|> T5: Testing += and < Operators
+----------------------------------------
+Ship not up to standard. Required power: 90.111
+Ship not up to standard. Required power: 90.111
+Ship not up to standard. Required power: 90.111
+liner - 99
+4.4 liters - V8
+5 liters - V8
+4.1 liters - Inline
+2.1 liters - D1
+2.1 liters - D2
+2.1 liters - D3
+Ship doesn't exceed power regulation of: 99.999
+==163124== 
+==163124== HEAP SUMMARY:
+==163124==     in use at exit: 0 bytes in 0 blocks
+==163124==   total heap usage: 0 allocs, 0 frees, 0 bytes allocated
+==163124== 
+==163124== All heap blocks were freed -- no leaks are possible
+==163124== 
+==163124== For lists of detected and suppressed errors, rerun with: -s
+==163124== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+
+Script done on Wed 24 Jun 2020 11:18:26 PM EDT

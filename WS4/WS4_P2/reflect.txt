@@ -1,0 +1,10 @@
+Student name: Nguyen Hoang Trung Hieu
+Student ID:   142914191
+Section:      NBB
+
+Through this workshop, I have learned more experiences about allocated and dellocated memory, I have to check the varirable if it is a null pointer or not, and then allocated or dellocated to advoid leak memory.
+I also realize that when I use 'strncpy' to copy a string to a variable, I need using the (length of the string + 1 character) than just using the MAX_NAME. Because MAX_NAME just the maximum of name, but it not the maximum of the variable value, so my code leaked many memory by using MAX_NAME to the size of the name. 
+
+And I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
+
+
